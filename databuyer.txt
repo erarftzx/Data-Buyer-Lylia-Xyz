@@ -26,7 +26,7 @@
 * *Petrik (Lylia)*
 * *Manuel (Lylia)*
 * *Banz (Lylia)*
-* *Rendy (Lylia)*
+* *Lutfi (Lylia)*
 *✨ Leader Panel*
 * *Joo (Julian)*
 * *line (binzx)*
@@ -66,7 +66,6 @@
 * *mjr*(*binzx*) 
 * *yanto*(*binzx*)
 * *repz* (*binzx*) 
-* *lutpi (Julian&Lylia)*
 * *Ell (Joo)*
 * *Rafa Berian (Julian)*
 * *Nted (Joo)*
