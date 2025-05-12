@@ -48,7 +48,7 @@
 * Rexx
 * *Fiz(Lylia)*
 *🔒 Security Panel*
-* *Kenz (Lylia)*
+* *Kenn (Lylia)*
 *💎 PT Panel*
 * *barzx*(*satstore*)
 * *zand* (*binzx*) 
@@ -123,3 +123,4 @@
 * *Supir (Binzx)*
 * *Johan(banz)*
 * *dhil(banz)*
+* *Arsyad(kenn)*
